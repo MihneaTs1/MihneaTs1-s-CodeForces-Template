@@ -1,5 +1,4 @@
 #pragma GCC optimize("Ofast")
-#pragma GCC target("avx,avx2,fma")
 #include <bits/stdc++.h>
 #define make_your_code_200_times_faster_no_clickbait ios_base::sync_with_stdio(false);\
     /* "You shouldn't see this." */                             cin.tie(nullptr);\
