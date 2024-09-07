@@ -6,7 +6,7 @@ Welcome to my Codeforces template! This template is designed to make your compet
 
 This template includes several features to boost your code's performance and readability:
 
-- **GCC Optimizations**: `#pragma GCC optimize("Ofast")` and `#pragma GCC target("avx,avx2,fma")` are used to squeeze every bit of performance out of your code.
+- **GCC Optimizations**: `#pragma GCC optimize("Ofast")` is used to squeeze every bit of performance out of your code.
 - **Speedy I/O**: A macro named `make_your_code_200_times_faster_no_clickbait` is included to ensure fast input and output operations. And yes, it's essential. Don't turn it off! 😜
 - **Helpful Shortcuts**: Simple and meaningful macros like `YES`, `NO`, `YESn`, `NOn`, and some others to keep your code clean and concise.
 - **Multiple Test Cases**: Easily handle multiple test cases with a single macro, `MORE_TESTS`, that can be toggled on or off.
