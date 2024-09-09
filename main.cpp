@@ -10,22 +10,29 @@ using namespace std;
 #define YES cout<<"YES"    ///    |
 #define YESn cout<<"YES\n" /// <--|
 #define NO cout<<"NO"      ///    |
-#define NOn cout<<"NO\n"   /// <--|                                                                                                                                                                                                                      As you see, I don't use that much shortcuts. Very mindful. Very demure.
+#define NOn cout<<"NO\n"   /// <--|                                                                                                                                                                                                                      As you see, I don't use that many shortcuts. Very mindful. Very demure.
 /* just to emphasize */    ///    |
 #define MORE_TESTS 1       /// <--|-- TAKE NOTES GUYS
 #define FASTER_CODE 1      /// <--|-- HERE TOO
-
 int32_t TESTCASE_COUNT = 1, TESTCASE;
+
+/// START OF CODE
 
 void Solve ()
 {
-
+	
 }
+
+/*
+
+*/
+
+/// END OF CODE
 
 int32_t main ()
 {
     #if FASTER_CODE == 1
-    make_your_code_200_times_faster_no_clickbait; // shame on you if you disable it
+    make_your_code_200_times_faster_no_clickbait; // if you disable it, it will disable your CF rating
     #endif
     #if MORE_TESTS == 1
     cin >> TESTCASE_COUNT;
@@ -45,5 +52,6 @@ ___  ___          _        ______         ___  ____ _                    _____ _
 \_|  |_/\__,_|\__,_|\___|  \____/ \__, |  \_|  |_/_|_| |_|_| |_|\___|\__,_\_/ |_| |_|\___\_|  |_/\___/ \__, |\__, |\___|_|
                                    __/ |                                                                __/ | __/ |
                                   |___/                                                                |___/ |___/
+Happy coding! :)))))
 
 */
