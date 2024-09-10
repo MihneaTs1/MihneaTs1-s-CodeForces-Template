@@ -1,6 +1,5 @@
 #if defined(__clang__)
-#pragma clang optimize "Ofast"
-#pragma clang optimize "unroll-loops"
+#pragma clang optimize on
 #else
 #pragma GCC optimize("Ofast,unroll-loops")
 #endif
