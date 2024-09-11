@@ -1,8 +1,4 @@
-#if defined(__clang__)
-#pragma clang optimize on
-#else
 #pragma GCC optimize("Ofast,unroll-loops")
-#endif
 
 #include <bits/stdc++.h>
 #define FastIO ios_base::sync_with_stdio(false);\
